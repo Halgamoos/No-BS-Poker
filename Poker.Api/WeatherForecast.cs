@@ -1,4 +1,4 @@
-namespace No_BS_Poker;
+namespace Poker.Api;
 
 public class WeatherForecast
 {
